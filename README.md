@@ -4,9 +4,9 @@
 👀 I have a keen interest in Software Development & Artificial Intelligence. <br>
 
 You'd usually find me:
-- 👩🏻‍💻 Learning new things, currently: I'm learning React.js
-- 🎮 Working on cool **side projects.** 
-- 📖 Solving problems on LeetCode
+- 👩🏻‍💻 Learning and leveling up — currently focused on React.js
+- 🎮 Trying to working on cool **side projects.** 
+- 📖 Solving problems on <a href="https://leetcode.com/u/anubhavpathak03/" target="_blank">Leetcode</a>
 
 
 
