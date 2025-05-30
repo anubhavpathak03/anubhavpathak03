@@ -8,7 +8,9 @@ You'd usually find me:
 - 🎮 Trying to working on cool **side projects.** 
 - 📖 Solving problems on <a href="https://leetcode.com/u/anubhavpathak03/" target="_blank">Leetcode</a> <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-anubhavpathak03&abbreviated=true)
+<!--
+![](https://komarev.com/ghpvc/?username=your-github-anubhavpathak03&abbreviated=tru/e)
+--->
 
 
 <!---
