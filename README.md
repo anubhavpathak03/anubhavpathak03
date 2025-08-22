@@ -4,7 +4,7 @@
 👀 Passionate about Software Development, and actively exploring Artificial Intelligence & Machine Learning.
 
 You'd usually find me:
-- 👩🏻‍💻 Learning and leveling up — currently focused on React.js
+- 👩🏻‍💻 Learning and levelling up — currently focused on React.js and Backend NodeJS
 - 🎮 Trying to working on cool **side projects.** 
 - 📖 Solving problems on <a href="https://leetcode.com/u/anubhavpathak03/" target="_blank">Leetcode</a> <br>
 
